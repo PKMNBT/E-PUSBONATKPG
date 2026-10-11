@@ -39,3 +39,7 @@ Logo E-PUSBONAT disimpan lokal di `assets/logo-e-pusbonat.png` agar ikut ter-hos
 
 ## Identitas header
 Logo E-PUSBONAT dari aset lokal ditampilkan di sidebar kiri. Logo Kementerian Kesehatan RI pada sisi kanan header memakai sumber unduhan dari halaman logo resmi Kemenkes; tampilannya membutuhkan akses internet. Footer tetap berada di alur dokumen (position: static), tidak fixed/sticky, sehingga tidak menutupi konten saat scroll.
+
+
+## Pembaruan tampilan mobile premium v1.6
+CSS responsif tambahan untuk layar HP: navigasi drawer, header ringkas, kartu membulat, form dan grafik yang menyesuaikan lebar, teks membungkus, serta tabel yang dapat digeser horizontal. Perubahan mempertahankan HTML utama, ID, data localStorage, dan event handler yang sudah ada.
